@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Werkzeug
+Pillow
+opencv-python-headless
+numpy
+gunicorn
